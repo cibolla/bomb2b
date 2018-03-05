@@ -23,7 +23,7 @@ public class bomb2 : PhysicsGame
         LuoKentta();
         AsetaOhjaimet();
         LuoPallot(30.0, 5);
-        // Gravity = new Vector (0, -800);
+        // Gravity = new Vector (0, -800); aa
         // pallo.Hit(kokeilu);
 
 
