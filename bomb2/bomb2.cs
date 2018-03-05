@@ -24,7 +24,7 @@ public class bomb2 : PhysicsGame
         AsetaOhjaimet();
         LuoPallot(30.0, 5);
         // Gravity = new Vector (0, -800); aa
-        // pallo.Hit(kokeilu);
+        // pallo.Hit(kokeilu);a
 
 
 
